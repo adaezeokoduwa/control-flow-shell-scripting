@@ -183,9 +183,9 @@ done
    ```
    ./loop_task.sh
    ```
-![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop11.jpg?raw=true)
----
 
+---
+![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop11.jpg?raw=true)
 ### What Happened:
 
 When I executed the script, the terminal printed:
