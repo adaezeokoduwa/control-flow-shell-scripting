@@ -152,6 +152,9 @@ This script is a practical demonstration of **control flow** in bash using `if`,
 I created a shell script to understand how a `while` loop works. A `while` loop is useful when you want to run a block of code **as long as a condition is true**.
 
 ---
+![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop11.jpg?raw=true)
+
+![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop22.jpg?raw=true)
 
 ### Step-by-Step Process:
 
@@ -209,8 +212,6 @@ Hello, World! This is message 5
 ## Conclusion
 
 This exercise helped me understand how bash scripts make decisions and respond to different inputs. Practicing control flow makes me more confident in writing scripts that are interactive and useful in real-world automation.
-![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop11.jpg?raw=true)
 
-![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop22.jpg?raw=true)
 
 
