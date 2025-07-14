@@ -163,10 +163,9 @@ I created a shell script to understand how a `while` loop works. A `while` loop 
 2. Then I typed the following loop code:
    ```
    #!/bin/bash
-
 for i in 1 2 3 4 5
-do
-    echo "Hello, World! This is message $i"
+do 
+echo "Hello, World! This is message $i"
 done
    ```
 
