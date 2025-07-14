@@ -189,13 +189,13 @@ I created a shell script to understand how a `while` loop works. A `while` loop 
 
 When I executed the script, the terminal printed:
 
-````
+```
 Hello, World! This is message 1
 Hello, World! This is messager 2
 Hello, World! This is message 3
 Hello, World! This is messager 4
 Hello, World! This is message 5
-````
+```
 ---
 
 ##  What I Learned:
