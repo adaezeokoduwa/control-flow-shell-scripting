@@ -185,19 +185,17 @@ I created a shell script to understand how a `while` loop works. A `while` loop 
    ````
 
 ---
-![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop11.jpg?raw=true)
 ### What Happened:
 
 When I executed the script, the terminal printed:
 
-```
+````
 Hello, World! This is message 1
 Hello, World! This is messager 2
 Hello, World! This is message 3
 Hello, World! This is messager 4
 Hello, World! This is message 5
-```
-![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop22.jpg?raw=true)
+````
 ---
 
 ##  What I Learned:
@@ -211,3 +209,8 @@ Hello, World! This is message 5
 ## Conclusion
 
 This exercise helped me understand how bash scripts make decisions and respond to different inputs. Practicing control flow makes me more confident in writing scripts that are interactive and useful in real-world automation.
+![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop11.jpg?raw=true)
+
+![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop22.jpg?raw=true)
+
+
