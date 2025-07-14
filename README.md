@@ -162,27 +162,27 @@ I created a shell script to understand how a `while` loop works. A `while` loop 
 
 2. Then I typed the following loop code:
 
-   ```
+   ````
    #!/bin/bash
-  for i in 1 2 3 4 5
+   for i in 1 2 3 4 5
   do 
   echo "Hello, World! This is message $i"
   done
-   ```
+   ````
 
 3. I saved and closed the editor:
    - Pressed `CTRL + O`, then `Enter` to save
    - Pressed `CTRL + X` to exit
 
 4. I made the script executable:
-   ```
+   ````
    chmod +x loop.sh
-   ```
+   ````
 
 5. I ran the script:
-   ```
+   ````
    ./loop_task.sh
-   ```
+   ````
 
 ---
 ![](https://github.com/adaezeokoduwa/control-flow-shell-scripting/blob/main/imgs/loop11.jpg?raw=true)
